@@ -1,3 +1,7 @@
+## Android Voice Activity Detection With Recording 
+Added audio recording (wav) functionality to the VAD Silero Fragment of the original [android-vad](https://github.com/gkonovalov/android-vad) repository.  When speech is detected, the audio is recorded and saved to the device's Music directory.
+
+
 ## Android Voice Activity Detection (VAD)
 Android [VAD](https://en.wikipedia.org/wiki/Voice_activity_detection) library is designed to process audio in 
 real-time and identify presence of human speech in audio samples that contain a mixture of speech 
